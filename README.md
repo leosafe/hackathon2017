@@ -1,4 +1,4 @@
-# Bardo Front-end test
+# Bardo (Hackathon 2017)
 
 O projeto está em vue.js (https://vuejs.org) e usa Node.js v8.0+
 
