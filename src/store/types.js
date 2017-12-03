@@ -1,0 +1,5 @@
+export const UPDATE_PRODUCTS = 'UPDATE_PRODUCTS'
+export const ACTIVE_CATEGORY = 'ACTIVE_CATEGORY'
+export const UPDATE_CATEGORIES = 'UPDATE_CATEGORIES'
+export const ADD_IMAGES = 'ADD_IMAGES'
+export const API_CATEGORIES = 'http://ec2-54-202-16-95.us-west-2.compute.amazonaws.com/api/ArtefactClass/GetAvailableStoryTypes'

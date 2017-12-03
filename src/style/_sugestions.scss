@@ -1,0 +1,12 @@
+@import 'basics/_variables.scss';
+@import 'basics/_mixins.scss';
+
+  .sugestions {
+    position: fixed;
+    height: 100vh;
+    width: 70px;
+    background-color: rgba(0,0,0,0.6);
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }

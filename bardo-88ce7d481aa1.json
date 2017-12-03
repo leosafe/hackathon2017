@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bardo-187813",
+  "private_key_id": "88ce7d481aa1018e8736064d6bf588ed1f605d92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfK4f3Zl8eR3ww\n4JEarwKkLl7/m/nn/Hm4kmBkUV4QejdPjo6Dj+GpU0sx9MkYAQQWPEMrbhd+8nhR\nkLfONfd/Fsw12gRff53kY/45QHy07oTJ0y1yotobvVttJyzCO77b1gj4BiEWnrK1\n92SMvLRX/tlh26PM9lHa/2JtxGvY3agGO7yyfvELmpSmWteVzZcnq4by4KNi6JYX\nueylFoySLFLmW588yf9X34h2NADjS/fw/LiFdBJ2ufzPjlRVsE3TrpMyJIJW9LUt\nBSOOLZ3Z+VG2AoJbanBYnBetYp7dctqRKURM0nycEutGUtnJtllWCYkfcN2NF5J1\n6/cXt4xxAgMBAAECggEAFHNu5lo4aXcM3WjVLAUFhVvR5+y+CNEXQKBKE0mjGOHj\nHm02IXBIsc1acYI+nj9vK341sSxVh4GW9P/vpeaoNKOUvGyVOEH44wH4BZokC8lD\ntXzVL4/+DydeymEIrrInfS58e4WqFbJxStENEcojL9U2UAz8+FZDwSwkFO9yXew1\nDLYLYs5jmarmEzWsDiVTzvBZg5eW1l1cMF+4KvwbJek/MAdcjtWHWPSvRrhUpaRs\n4ED3zdS8TETjxQ7K0g6MhntjH72dDlXOZIaisCa65n25yX3sZg310vJGqqfUjhO8\nTUsf+I06pT4hck9d4tozHRln4REI5SnFDXdVDM98iwKBgQDMRDfbkgJ0zrEfswpc\nwnls7cr5EEZklpiPADk1rOk2eg8r2DyJ6LF3f69k/2LemrQiBf6sa6TrVkrtjXBd\nGnhQY25f4+gTHOURYFJIc29aBbbsUMS+OleBEpsOipeKAQb0XthTEvJgJ4e/c7QV\n1H2xvIZBNlLThbqvy9AT0Zig6wKBgQDHe3MCzTjX/Uu5Ujyx+vI2C1t4j1fw0YFe\nVqKkX1aDAzscWGRaBA9X/gHUSPesKE3SR4pxIfxyqQobzPntiaUGNWFGSasmR128\nUuwwAi5PWELQMOm9BAtaYezcS4g0tb3GhEwhd/sKlGlnbXp5hvNenE8oRzbRZia3\nus2aJxwREwKBgH3zSmXvH+iaUgjzwt3zZB/QeCke6ei4GxWB08TO+3YFyTkFuj5m\n5paCesnR10rfJVcdTy1NqoEZ0lWrsq8V1T3sMXCa/MxcMrqGI/ZchzqA74vDOaz6\nGF6T9FwBBPOpMnqXyNdghWbYuRFJ7K7ROTfQwQ+QyX13pecjyweNY4lFAoGAQoaI\n9IY8TsvKVSN32mM2I4/mEW68hTNZUXzTAL5Ku6Z4MBvKW7q+4zlyorky39cRHO9+\n2/vZlOOK23qgXvdocYmbxzUKPtnOCOAepGQVzaBBp+yoBsEyiBHgTBdkdS+m+m1k\ndkTtE7oq7LM2BRFcWFEIlQYq4eqPPvatWptwYMECgYEAg4Jctc2Td1jIAo8dVHLV\nptg4k79xQN92SrmFT1vAtZJmMQW8Pmp5ICMYKvA8OjRCl8yqVdhUM+4qLJf+Pd1Y\nhue8azSbH4wEUpzwhBZYCWuHbkIRag9M0Zn85mlCQwWI8zVmTf+AkeKJbLoe0YJ0\ngfLftEHds3IeE+SNzj7uB1E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "administrador@bardo-187813.iam.gserviceaccount.com",
+  "client_id": "108220250600705357723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/administrador%40bardo-187813.iam.gserviceaccount.com"
+}

@@ -1,0 +1,11 @@
+@import 'basics/_variables.scss';
+@import 'basics/_mixins.scss';
+
+  .logo {
+      position: absolute;
+      left: 30px;
+      top: 10px;
+      width: 264px;
+      height: 104px;
+      background-size: contain;
+  }

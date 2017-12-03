@@ -1,0 +1,4 @@
+public/js/bootstrap
+public/js/jquery
+build/*.js
+config/*.js
